@@ -1,0 +1,6 @@
+[submodule "fparser"]
+	path = fparser
+	url = https://github.com/stfc/fparser.git
+[submodule "fxtran"]
+	path = fxtran
+	url = https://github.com/pmarguinaud/fxtran.git
